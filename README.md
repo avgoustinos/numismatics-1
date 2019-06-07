@@ -4,7 +4,7 @@ The RM’s available for download and installed with a few clicks, and it will e
 
 
 
-## For More Information
+# For More Information
 Contact Avgoustinos Avgousti 
 The Cyprus Institute
 email: a.avgousti@cyi.ac.cy
